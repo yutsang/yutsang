@@ -36,7 +36,7 @@
   <a href="https://www.atlassian.com/software/jira"><img alt="Jira" src="https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira"></a>
   
 - 🖥 &nbsp;
-  <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=pyspark>
+  <a href="https://spark.apache.org/docs/latest/api/python/"><img alt=“PySpark” src="https://img.shields.io/badge/-PySpark-333333?style=flat&logo=Apache-Spark>
   <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=kedro”></a>
   <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-InDesign-333333?style=flat&logo=superset”></a>
   <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=microsoft-vba”></a>
