@@ -18,8 +18,7 @@
 
 - 💻 &nbsp;
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-333333?   style=flat&logo=python"></a>
-  <a href="https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java"></a>
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  <a href="https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396"></a>
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
