@@ -1,22 +1,23 @@
-<h2> Hey there! I'm Dylan.</h2>
+<h2> Hey there! I'm Dylan.
 <p align="center">
 <a href="https://www.pydot.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.pydot.com-blue?style=plastic&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/tsangyu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-TSANG%20Yu%20-blue?style=plastic&logo=linkedin"></a>
 <a href="https://www.instagram.com/tsang_yu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-tsang__yu-blue?style=plastic&logo=instagram"></a>
 <a href="mailto:tsangyu@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-tsangyu@outlook.com-blue?style=plastic&logo=gmail"></a>
-</p>
+</p></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, developing data solutions and studying stochastic algorithms.
 - 🎓 &nbsp; Studying Logistics Management at Hong Kong University of Science and Technology.
 - 💼 &nbsp; Worked as a Data Intern at DBS Bank (Hong Kong) Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Data Architecture, Systems Design and Deep Learning.
+- ✍️ &nbsp; Pursuing Solution Design and Event Phototaking as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  !<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-blue?style=plastic&logo=Python"></a>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
