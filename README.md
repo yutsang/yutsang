@@ -54,20 +54,7 @@
 <a href="https://github.com/yutsang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yutsang&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutsang&theme=buefy&layout=compact" />
-  <?php header('Cache-Control: no-cache'); ?>
 </a>
 <br/>
-
-routes.get('/recentSVG', (request, result) =>
-{
-    sql.getRecentPosts(4).then((sqlData)=>
-    {  
-        result.writeHead(200, {'Content-Type': 'image/svg+xml',
-            'Cache-Control': 'no-cache',
-            'Vary': 'Accept-Encoding'});
-        
-    }).catch((err)=>
-    {
-        result.status(404).json({error: 404}).end();
-    })
-});
+<html>
+<?php header('Cache-Control: no-cache'); ?>
