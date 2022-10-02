@@ -18,22 +18,16 @@
 
 - 💻 &nbsp;
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-333333?   style=flat&logo=python"></a>
-  <a href="https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396"></a>
   <a href="https://cplusplus.com"><img alt="C++" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C"></a>
   <a href="https://www.r-project.org"><img alt=“R” src="https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3"></a>
   <a href="https://www.tableau.com"><img alt=“Tableau” src="https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau&logoColor=E9AC51"></a>
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  <a href="https://html5.org"><img alt=“php” src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5"></a>
+  <a href="https://www.php.net"><img alt=“php” src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php"></a>
+  <a href="https://www.mysql.com"><img alt=“MySQL” src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">  </a>
+  <a href="https://mariadb.org"><img alt=“MariaDB” src="https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb"></a>
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
