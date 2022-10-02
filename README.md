@@ -28,6 +28,8 @@
   <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/"><img alt="Excel VBA" src="https://img.shields.io/badge/-Excel_VBA-333333?style=flat&logo=microsoft+excel"></a>
   <a href="https://www.tableau.com"><img alt="Tableau" src="https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau&logoColor=E9AC51"></a>
   <a href="https://powerbi.microsoft.com/en-au/"><img alt="Power Bi" src="https://img.shields.io/badge/-Power_BI-333333?style=flat&logo=powerbi&logoColor=E9AC51"></a>
+  <a href="https://www.java.com"><img alt=“Java” src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java”></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img alt=“Matlab” src="https://img.shields.io/badge/-Matlab-333333?style=flat&logo=mathworks-matlab”></a>
 
 - 🌐 &nbsp;
   <a href="https://html5.org"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5"></a>
