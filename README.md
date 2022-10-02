@@ -20,8 +20,10 @@
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-333333?   style=flat&logo=python"></a>
   <a href="https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396"></a>
   <a href="https://cplusplus.com"><img alt="C++" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C"></a>
+  <a href="https://www.r-project.org"><img alt=“R” src="https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3"></a>
+  <a href="https://www.tableau.com"><img alt=“Tableau” src="https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau&logoColor=E9AC51"></a>
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau&logoColor=E9AC51)
+
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
