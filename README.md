@@ -41,7 +41,7 @@
   <a href="https://github.com"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></a>
   <a href="https://www.markdownguide.org"><img alt="Markdow" src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"></a>
   <a href="https://code.visualstudio.com"><img alt="Visual_Studio_Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>
-  <a href="https://jupyter.org"><img alt=“Jupyter” src="https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter”></a>
+  <a href="https://jupyter.org"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter"></a>
   <a href="https://www.atlassian.com/software/jira"><img alt="Jira" src="https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira"></a>
   
 - 📸 &nbsp;
