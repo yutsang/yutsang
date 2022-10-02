@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Dylan.
-<p align="center">
+<p align="left">
 <a href="https://www.pydot.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.pydot.com-blue?style=plastic&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/tsangyu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-TSANG%20Yu%20-blue?style=plastic&logo=linkedin"></a>
 <a href="https://www.instagram.com/tsang_yu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-tsang__yu-blue?style=plastic&logo=instagram"></a>
@@ -29,24 +29,23 @@
   <a href="https://mariadb.org"><img alt=“MariaDB” src="https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb"></a>
   
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"></a>
+  <a href="https://github.com"><img alt=“GitHub” src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></a>
+  <a href="https://www.markdownguide.org"><img alt=“Markdown” src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"></a>
+  <a href="https://code.visualstudio.com"><img alt=“Visual Studio Code” src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>
+  <a href="https://www.atlassian.com/software/jira"><img alt=“Jira” src="https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira”></a>
+  
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator>
+  <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop"></a>
+  <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign"></a>
+  <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom”></a>
+  <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-Premiere_Pro-333333?style=flat&logo=adobe-premiere-pro”></a>
 
 <br/>
-
 <a href="https://github.com/yutsang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yutsang&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutsang&theme=buefy&layout=compact" />
 </a>
-
 <br/>
 
