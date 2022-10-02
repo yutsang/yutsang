@@ -54,7 +54,7 @@
 <a href="https://github.com/yutsang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yutsang&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutsang&theme=buefy&layout=compact" />
-  <?php header('Cache-Control: no-cache');?>
+  <?php header('Cache-Control: no-cache'); ?>
 </a>
 <br/>
 
