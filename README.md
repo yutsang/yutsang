@@ -37,7 +37,7 @@
   
 - 🖥 &nbsp;
   <a href="https://spark.apache.org/docs/latest/api/python/"><img alt="PySpark" src="https://img.shields.io/badge/-PySpark-333333?style=flat&logo=Apache-Spark">
-  <a href="https://www.python.org/"><img src = "https://raw.githubusercontent.com/kedro-org/kedro/develop/static/img/kedro_banner.png" alt = "Kedro", width="50", height="50">
+  <a href="https://www.python.org/"><img alt = "Kedro" src = "https://raw.githubusercontent.com/kedro-org/kedro/develop/static/img/kedro_banner.png" width="50" height="50">
   <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-InDesign-333333?style=flat&logo=superset"></a>
   <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=microsoft-vba"></a>
 
