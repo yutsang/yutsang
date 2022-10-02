@@ -37,16 +37,16 @@
   
 - 🖥 &nbsp;
   <a href="https://spark.apache.org/docs/latest/api/python/"><img alt="PySpark" src="https://img.shields.io/badge/-PySpark-333333?style=flat&logo=Apache-Spark">
-  ![Kedro Logo Banner](https://raw.githubusercontent.com/kedro-org/kedro/develop/static/img/kedro_banner.png)
+  ![Kedro Logo Banner]<img src = "https://raw.githubusercontent.com/kedro-org/kedro/develop/static/img/kedro_banner.png" alt = "Kedro", width="50", height="50">
   <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-InDesign-333333?style=flat&logo=superset"></a>
   <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=microsoft-vba"></a>
 
 - 📸 &nbsp;
-  <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator">
-  <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop"></a>
-  <a href="https://git-scm.com"><img alt=“Git” src="https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign"></a>
-  <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom"></a>
-  <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/-Premiere_Pro-333333?style=flat&logo=adobe-premiere-pro"></a>
+  <a href="https://www.adobe.com/hk_en/products/illustrator.html"><img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator">
+  <a href="https://www.adobe.com/hk_en/products/photoshop.html"><img alt=“Photoshop” src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop"></a>
+  <a href="https://www.adobe.com/hk_en/products/indesign.html"><img alt=“Indesign” src="https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign"></a>
+  <a href="https://www.adobe.com/hk_en/products/photoshop-lightroom-classic.html"><img alt="Lightroom Classic" src="https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom-classic"></a>
+  <a href="https://www.adobe.com/hk_en/products/premiere.html"><img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere_Pro-333333?style=flat&logo=adobe-premiere-pro"></a>
 
 <br/>
 <a href="https://github.com/yutsang">
