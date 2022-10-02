@@ -1,4 +1,10 @@
 <h2> Hey there! I'm Dylan.</h2>
+<p align="center">
+<a href="https://www.pydot.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.pydot.com-blue?style=plastic&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/tsangyu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-TSANG%20Yu%20-blue?style=plastic&logo=linkedin"></a>
+<a href="https://www.instagram.com/tsang_yu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-tsang__yu-blue?style=plastic&logo=instagram"></a>
+<a href="mailto:tsangyu@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-tsangyu@outlook.com-blue?style=plastic&logo=gmail"></a>
+</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -47,11 +53,3 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.pydot.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.pydot.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/tsangyu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-TSANG%20Yu%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/tsang_yu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-tsang__yu-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:tsangyu@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-tsangyu@outlook.com-blue?style=flat-square&logo=gmail"></a>
-</p>
