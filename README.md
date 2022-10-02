@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Dylan.
+<h2> Hi, I'm Dylan Tsang.
 <p align="left">
 <a href="https://www.pydot.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.pydot.com-blue?style=plastic&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/tsangyu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-TSANG%20Yu%20-blue?style=plastic&logo=linkedin"></a>
@@ -9,12 +9,12 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies, developing data solutions and studying stochastic algorithms.
-- 🎓 &nbsp; Studying Logistics Management at Hong Kong University of Science and Technology.
+- 🎓 &nbsp; Studying Logistics Management at **Hong Kong University of Science and Technology**.
   * I am currently a member of:
     *  Committee Member, Hong Kong Logistics Association Youth Association
     *  Committee Member, Hong Kong Institution of Engineers Student Chapter, HKUST
     *  Student Ambassador at IEDA, HKUST  
-- 💼 &nbsp; Worked as a Data Intern at DBS Bank (Hong Kong) Limited.
+- 💼 &nbsp; Worked as a Data Intern at **DBS Bank (Hong Kong) Limited**.
 - 🌱 &nbsp; Learning more about Data Architecture, Systems Design and Deep Learning.
 - ✍️ &nbsp; Pursuing Solution Design and Event Phototaking as hobbies/side hustles.
 
