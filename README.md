@@ -58,3 +58,16 @@
 </a>
 <br/>
 
+routes.get('/recentSVG', (request, result) =>
+{
+    sql.getRecentPosts(4).then((sqlData)=>
+    {  
+        result.writeHead(200, {'Content-Type': 'image/svg+xml',
+            'Cache-Control': 'no-cache',
+            'Vary': 'Accept-Encoding'});
+        
+    }).catch((err)=>
+    {
+        result.status(404).json({error: 404}).end();
+    })
+});
