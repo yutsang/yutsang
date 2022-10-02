@@ -52,8 +52,8 @@
 
 <br/>
 <a href="https://github.com/yutsang">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yutsang&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutsang&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yutsang&theme=buefy&show_icons=true&cache-control=no-cache" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutsang&theme=buefy&layout=compact&cache-control=no-cache" />
 </a>
 <br/>
 <html>
