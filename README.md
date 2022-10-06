@@ -47,11 +47,11 @@
   <a href="https://www.atlassian.com/software/jira"><img alt="Jira" src="https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira"></a>
   
 - 📸 &nbsp;
+  <a href="https://www.adobe.com/hk_en/products/photoshop-lightroom-classic.html"><img alt="Lightroom Classic" src="https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom-classic"></a>
+  <a href="https://www.adobe.com/hk_en/products/premiere.html"><img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere_Pro-333333?style=flat&logo=adobe-premiere-pro"></a>
   <a href="https://www.adobe.com/hk_en/products/illustrator.html"><img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator">
   <a href="https://www.adobe.com/hk_en/products/photoshop.html"><img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop"></a>
   <a href="https://www.adobe.com/hk_en/products/indesign.html"><img alt="Indesign" src="https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign"></a>
-  <a href="https://www.adobe.com/hk_en/products/photoshop-lightroom-classic.html"><img alt="Lightroom Classic" src="https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom-classic"></a>
-  <a href="https://www.adobe.com/hk_en/products/premiere.html"><img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere_Pro-333333?style=flat&logo=adobe-premiere-pro"></a>
 
 <br/>
 <a href="https://github.com/yutsang">
