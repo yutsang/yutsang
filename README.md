@@ -17,7 +17,7 @@
 - 💼 &nbsp; Worked as a Data Intern at **DBS Bank (Hong Kong) Limited**.
 - 🌱 &nbsp; Learning more about Data Architecture, Systems Design and Deep Learning.
 - ✍️ &nbsp; Pursuing Solution Design and Event Phototaking as hobbies/side hustles.
-- 📚 &nbsp; Know more about my experiences (📄**Resume** [**here**](https://drive.google.com/file/d/1W-_0WMhbK0z0XkzGXSNsnY-egSzEroHM/view?usp=sharing))
+- 📚 &nbsp; Know more about my experiences (📄**Resume** [**here**]([https://drive.google.com/file/d/1W-_0WMhbK0z0XkzGXSNsnY-egSzEroHM/view?usp=sharing](https://pydot713-my.sharepoint.com/:b:/g/personal/ytsang_gethome_com_hk/EZc_VtocpbZKhYTBJZX9GXoB8Yyv75UrrquzOKN7dKYFlA?e=39KRd2)))
 
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
