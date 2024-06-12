@@ -9,12 +9,14 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies, developing data solutions and studying stochastic algorithms.
-- 🎓 &nbsp; Studying Logistics Management at **Hong Kong University of Science and Technology**.
-  * I am currently a member of:
-    *  **Chairman** at **Hong Kong Logistics Association Youth Association**
-    *  **Committee Member** at **Hong Kong Institution of Engineers Student Chapter, HKUST**
-    *  **Student Ambassador** at **IEDA, HKUST**
-- 💼 &nbsp; Worked as a Data Intern at **DBS Bank (Hong Kong) Limited**.
+- 🎓 &nbsp; Study Engineering Enterprise Management(**MSc**) and Logistics Management(**BSc**) at **Hong Kong University of Science and Technology**.
+  * I was participated in student activities as:
+    *  **Executive Rols** at **HK Logistics Association Youth Association** and **HKIE, HKUST**
+    *  **Student Ambassador and Society** at **IEDA Dept, HKUST**
+- 💼 &nbsp; Working experience:
+  * **PwC**: IT Auditor - IT General Controls and Internal Audits
+  * **DBS Bank**: Data and Sales - Pricing Optimization and Leads Management
+  * **Local CPA firm**: Audit Assistant - Accounting, Auditing and Company Secretary roles
 - 🌱 &nbsp; Learning more about Data Architecture, Systems Design and Deep Learning.
 - ✍️ &nbsp; Pursuing Solution Design and Event Phototaking as hobbies/side hustles.
 - 📚 &nbsp; Know more about my experiences (📄[**Resume**](https://pydot713-my.sharepoint.com/:b:/g/personal/ytsang_gethome_com_hk/EZc_VtocpbZKhYTBJZX9GXoB8Yyv75UrrquzOKN7dKYFlA?e=39KRd2))
