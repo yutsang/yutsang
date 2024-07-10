@@ -21,6 +21,7 @@
 - ✍️ &nbsp; Pursuing Solution Design and Event Phototaking as hobbies/side hustles.
 - 📚 &nbsp; Know more about my experiences (📄[**Resume**](https://pydot713-my.sharepoint.com/:b:/g/personal/ytsang_gethome_com_hk/EZc_VtocpbZKhYTBJZX9GXoB8Yyv75UrrquzOKN7dKYFlA?e=39KRd2))
 
+
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
 - 💻 &nbsp;
@@ -57,9 +58,24 @@
 
 <br/>
 <a href="https://github.com/yutsang">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yutsang&theme=buefy&show_icons=true&cache-control=no-cache" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutsang&theme=buefy&layout=compact&cache-control=no-cache" />
+  <table style="border-collapse: collapse; width: 100%; border: none;">
+    <tr>
+      <td style="border: none; padding: 0;">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yutsang&theme=buefy&show_icons=true&cache-control=no-cache" />
+      </td>
+      <td style="border: none; padding: 0;">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutsang&theme=buefy&layout=compact&cache-control=no-cache" />
+      </td>
+      <td style="border: none; padding: 0;">
+        <img height="150em" src="https://leetcard.jacoblin.cool/ytsang" />
+      </td>
+    </tr>
+  </table>
 </a>
 <br/>
+
+
+
+
 <html>
 <?php header('Cache-Control: no-cache'); ?>
