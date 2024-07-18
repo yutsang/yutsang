@@ -72,8 +72,8 @@
           <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yutsang&theme=buefy&layout=compact&cache-control=no-cache"> 
             <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutsang&theme=buefy&layout=compact&cache-control=no-cache" /> 
           </a> </td> <td style="border: none; padding: 0;"> 
-          <a href="https://leetcode.com/ytsang"> 
-            <img height="150em" src="https://leetcard.jacoblin.cool/ytsang" /> 
+          <a href="https://leetcode.com/yutsang"> 
+            <img height="150em" src="https://leetcard.jacoblin.cool/yutsang" /> 
           </a> 
         </td> 
       </tr> 
