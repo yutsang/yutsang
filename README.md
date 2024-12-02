@@ -22,9 +22,7 @@
    *   **Student Ambassador and Society** at **IEDA Dept, HKUST**
 - 🌱 &nbsp; Learning more about Data Architecture, Systems Design and Deep Learning.
 - ✍️ &nbsp; Pursuing Solution Design and Event Phototaking as hobbies/side hustles.
-- 📚 &nbsp; Know more about my experiences (📄[**Resume**](https://pydot713-my.sharepoint.com/:b:/g/personal/ytsang_pydot_com/ETH9LJsu0LNHviA2uIIPhIEBZ4wCZqgRvd0aSYmczuk8Eg?e=2LB9TK){target="_blank"})
-- <a href="https://pydot713-my.sharepoint.com/:b:/g/personal/ytsang_pydot_com/ETH9LJsu0LNHviA2uIIPhIEBZ4wCZqgRvd0aSYmczuk8Eg?e=2LB9TK" target="_blank">View my CV</a>
-[View my CV](https://pydot713-my.sharepoint.com/:b:/g/personal/ytsang_pydot_com/ETH9LJsu0LNHviA2uIIPhIEBZ4wCZqgRvd0aSYmczuk8Eg?e=2LB9TK){:target="_blank"}
+- 📚 &nbsp; Know more about my experiences (📄[**Resume**](https://pydot713-my.sharepoint.com/:b:/g/personal/ytsang_pydot_com/ETH9LJsu0LNHviA2uIIPhIEBZ4wCZqgRvd0aSYmczuk8Eg?e=2LB9TK)
 
 
 
