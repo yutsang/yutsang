@@ -30,7 +30,7 @@
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
 - 💻 &nbsp;
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-333333?   style=flat&logo=python"></a>
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"></a>
   <a href="https://cplusplus.com"><img alt="C++" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C"></a>
   <a href="https://www.r-project.org"><img alt="R" src="https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3"></a>
   <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/"><img alt="Excel VBA" src="https://img.shields.io/badge/-Excel_VBA-333333?style=flat&logo=microsoft+excel"></a>
