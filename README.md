@@ -15,9 +15,9 @@
    *  **PwC**: IT Auditor - IT General Controls and Internal Audits
    *  **DBS Bank**: Data and Sales - Pricing Optimization and Leads Management
    *  **Local CPA firm**: Audit Assistant - Accounting, Auditing and Company Secretary roles
-- 💼 &nbsp; Certs(incl. Exam Pass):
-   *  **CISA**: Certified Information Systems Auditor (ISACA)
-   *  **CISM**: Certified Information Security Manager (ISACA)
+- 💼 &nbsp; Certs:
+   *  **CISA**: Certified Information Systems Auditor (ISACA[📄](https://www.credly.com/badges/52d6c717-6771-4546-8482-c6f8e9b0489c/public_url))
+   *  **CISM**: Certified Information Security Manager (ISACA[📄](https://www.credly.com/badges/3f79b314-6095-46b3-b46c-f68e02a31c6b/public_url))
 - 💼 &nbsp; Student activities:
    *   **Executive Rols** at **HK Logistics Association Youth Association** and **HKIE, HKUST**
    *   **Student Ambassador and Society** at **IEDA Dept, HKUST**
