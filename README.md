@@ -11,7 +11,7 @@
 - 🤔 &nbsp; Exploring new technologies, developing data solutions and studying stochastic algorithms.
 - 🎓 &nbsp; Study Engineering Enterprise Management(**MSc**) and Logistics Management(**BSc**) at **Hong Kong University of Science and Technology**.
 - 💼 &nbsp; Working experience:
-   *  **Advisory Company**: Data Scientist - Data Analytics for Deals 
+   *  **KPMG**: Data Scientist - Data Analytics for Deals 
    *  **PwC**: IT Auditor - IT General Controls and Internal Audits
    *  **DBS Bank**: Data and Sales - Pricing Optimization and Leads Management
    *  **Local CPA firm**: Audit Assistant - Accounting, Auditing and Company Secretary roles
