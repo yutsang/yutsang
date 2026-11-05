@@ -20,7 +20,7 @@ Interested in data analysis, automation, and open-source tools.
 <p align="left">
   <a href="https://github.com/yutsang"><img alt="GitHub profile details" src="https://raw.githubusercontent.com/yutsang/yutsang/main/profile-summary-card-output/github/0-profile-details.svg" /></a>
   &nbsp;
-  <a href="https://leetcode.com/yutsang"><img height="120" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/yutsang" style="vertical-align: top;" /></a>
+  <a href="https://leetcode.com/yutsang"><img height="120" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/yutsang?hide=ranking&amp;animation=false&amp;border=0" style="vertical-align: top;" /></a>
 </p>
 
 <br/>
